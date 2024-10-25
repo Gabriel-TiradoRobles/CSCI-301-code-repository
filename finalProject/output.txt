@@ -1,0 +1,340 @@
+JOB TITLE: Senior Software Engineer (Frontend)
+COMPANY: Backflip, Inc.
+Job Info and Apply: remote.co/job/senior-software-engineer-frontend-22/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: (Senior) Software Engineer - Backend
+COMPANY: Timescale
+Job Info and Apply: remote.co/job/senior-software-engineer-backend-22-2/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Ruby on Rails Developer
+COMPANY: Zen Educate
+Job Info and Apply: remote.co/job/senior-ruby-on-rails-developer-22/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Software Engineer, Ruby on Rails
+COMPANY: Huntress Labs
+Job Info and Apply: remote.co/job/senior-software-engineer-ruby-on-rails-22/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Staff Full Stack Engineer - MetaMask
+COMPANY: Consensys
+Job Info and Apply: remote.co/job/staff-full-stack-engineer-metamask-22/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Senior Software Engineer, Full Stack
+COMPANY: Rad AI - Radiology AI
+Job Info and Apply: remote.co/job/senior-software-engineer-full-stack-19-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Senior Staff Engineer | Front-End
+COMPANY: Nitrogen Wealth
+Job Info and Apply: remote.co/job/senior-staff-engineer-front-end-19/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Principal Ruby/Solidity Engineer
+COMPANY: Figment Inc.
+Job Info and Apply: remote.co/job/principal-ruby-solidity-engineer-19/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Senior Frontend Engineer
+COMPANY: GrowthLoop
+Job Info and Apply: remote.co/job/senior-frontend-engineer-18-2/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Senior Software Engineer, Ruby on Rails
+COMPANY: Mudflap, Inc.
+Job Info and Apply: remote.co/job/senior-software-engineer-ruby-on-rails-18/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: .NET Back-end engineer
+COMPANY: Vodworks
+Job Info and Apply: remote.co/job/net-back-end-engineer-18/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Software Engineer (Full Stack)
+COMPANY: FreeWill Co.
+Job Info and Apply: remote.co/job/senior-software-engineer-full-stack-18-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Backend Engineer (RoR), Create: Source Code Management
+COMPANY: GitLab
+Job Info and Apply: remote.co/job/backend-engineer-ror-create-source-code-management-17/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Sr. Front-End Software Engineer
+COMPANY: Knowde
+Job Info and Apply: remote.co/job/sr-front-end-software-engineer-17/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Software Engineer II (Backend)
+COMPANY: Shogun
+Job Info and Apply: remote.co/job/software-engineer-ii-backend-15/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Senior Frontend Engineer
+COMPANY: Degreed
+Job Info and Apply: remote.co/job/senior-frontend-engineer-15-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Head of Developer Relations
+COMPANY: 
+Job Info and Apply: remote.co/job/head-of-developer-relations-15/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Staff Software Engineer - SIEM (Ruby/Rails)
+COMPANY: Huntress Labs
+Job Info and Apply: remote.co/job/staff-software-engineer-siem-ruby-rails-11/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Backend Engineer - Ruby
+COMPANY: Salsify
+Job Info and Apply: remote.co/job/senior-backend-engineer-ruby-11/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Backend Engineer, Access Control
+COMPANY: Webflow
+Job Info and Apply: remote.co/job/senior-backend-engineer-access-control-10/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: DevOps Engineer
+COMPANY: Flipside Crypto
+Job Info and Apply: remote.co/job/devops-engineer-10-2/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Software Engineer, Backend
+COMPANY: Sidecar Health
+Job Info and Apply: remote.co/job/senior-software-engineer-backend-8-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Ruby on Rails Contractor
+COMPANY: Planet Argon
+Job Info and Apply: remote.co/job/ruby-on-rails-contractor-8/
+TAGS:
+	1. Freelance
+	2. Part-time
+
+
+JOB TITLE: Senior Software Engineer - Database
+COMPANY: Timescale
+Job Info and Apply: remote.co/job/senior-software-engineer-database-8/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Identity Team Lead
+COMPANY: AlpacaDB
+Job Info and Apply: remote.co/job/identity-team-lead-8/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Backend Software Engineer
+COMPANY: Reddit
+Job Info and Apply: remote.co/job/backend-software-engineer-5-2/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Senior Front-End Developer
+COMPANY: Gainwell Technologies
+Job Info and Apply: remote.co/job/senior-front-end-developer-5-2/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Senior Full-Stack Engineer
+COMPANY: AppOmni
+Job Info and Apply: remote.co/job/senior-full-stack-engineer-5-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Staff Backend Engineer
+COMPANY: Tonal Systems, Inc.
+Job Info and Apply: remote.co/job/staff-backend-engineer-5/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Managing Editor, Surveys and Data Studies
+COMPANY: Bankrate
+Job Info and Apply: remote.co/job/managing-editor-surveys-and-data-studies-4/
+TAGS:
+	1. Full-time
+	2. High-paying
+
+
+JOB TITLE: Sr. Machine Learning Engineer - Generative Modeling
+COMPANY: Fable Group
+Job Info and Apply: remote.co/job/sr-machine-learning-engineer-generative-modeling-3/
+TAGS:
+	1. Full-time
+	2. High-paying
+	3. International
+
+
+JOB TITLE: Senior Developer
+COMPANY: CoLab Software
+Job Info and Apply: remote.co/job/senior-developer-14-3/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Senior React & React Native Developer
+COMPANY: Lemon.io
+Job Info and Apply: remote.co/job/senior-react-react-native-developer-3/
+TAGS:
+	1. Freelance
+	2. International
+
+
+JOB TITLE: Backend Developer (.NET)
+COMPANY: Smartcat
+Job Info and Apply: remote.co/job/backend-developer-net-2/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Full Stack Developer (CORE)
+COMPANY: CrewBloom
+Job Info and Apply: remote.co/job/full-stack-developer-core-1/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Fullstack Engineer - Product-Led Growth
+COMPANY: Sourcegraph
+Job Info and Apply: remote.co/job/fullstack-engineer-product-led-growth-30/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Senior Full-stack Python Developer
+COMPANY: Lemon.io
+Job Info and Apply: remote.co/job/senior-full-stack-python-developer-27/
+TAGS:
+	1. Freelance
+	2. International
+
+
+JOB TITLE: Senior Backend Engineer, Payments and Payouts Team
+COMPANY: BandLab Technologies
+Job Info and Apply: remote.co/job/senior-backend-engineer-payments-and-payouts-team-27/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Staff Backend Engineer Office of the CEO
+COMPANY: GitLab
+Job Info and Apply: remote.co/job/staff-backend-engineer-office-of-the-ceo-26/
+TAGS:
+	1. Full-time
+
+
+JOB TITLE: Senior AI Programmer
+COMPANY: CI Games
+Job Info and Apply: remote.co/job/senior-ai-programmer-26/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Mobile Engineer
+COMPANY: Eneba
+Job Info and Apply: remote.co/job/mobile-engineer-22/
+TAGS:
+	1. Full-time
+	2. International
+
+
+JOB TITLE: Frontend Software Engineer
+COMPANY: Zicasso
+Job Info and Apply: remote.co/job/frontend-software-engineer-22/
+TAGS:
+	1. International
+
+
+JOB TITLE: Senior Software Engineer - Python / Django
+COMPANY: Blenderbox
+Job Info and Apply: remote.co/job/senior-software-engineer-python-django-22/
+TAGS:
+	1. Freelance
+	2. Full-time
+	3. International
+
+

@@ -1,0 +1,27 @@
+#
+#BASH code-along Part 1. Not meant to be run as a program!
+#
+#
+
+
+# Console input/output 
+read MyVar
+echo $MyVar
+
+#Declaring Variables (show effect of spaces)
+MyVar='Fred'
+echo $MyVar
+MyVar=3.14
+echo $MyVar
+
+
+#string stuff
+# https://tldp.org/LDP/abs/html/string-manipulation.html
+
+# string expansion - last week
+
+StateYourName=Fred
+echo "I, $StateYourName"
+echo 'I, $StateYourName'
+
+

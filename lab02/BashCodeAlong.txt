@@ -1,0 +1,146 @@
+#
+#BASH code-along. Not meant to be run as a program!
+#
+#
+
+#Official site: https://www.gnu.org/software/bash/
+#
+#Reference site: https://www.gnu.org/software/bash/manual/bash.pdf 
+#
+
+#History: https://www.gnu.org/software/bash/manual/bash.pdf
+
+#Philosophy: none given
+
+#Programming aids: none
+
+#comments - no multiline method
+
+#Declaring Variables (show effect of spaces)
+MyVar='Fred'
+echo $MyVar
+MyVar=3.14
+echo $MyVar
+
+# Console input/output 
+read MyVar
+echo $MyVar
+
+# grouping code - https://www.gnu.org/software/bash/manual/html_node/Command-Grouping.html#:~:text=Bash%20provides%20two%20ways%20to,redirected%20to%20a%20single%20stream.
+
+
+
+#IF-THEN-ELSE statement (first branch)
+MyVar='Fred'
+echo $MyVar
+if [ $MyVar == 'Fred' ];
+then
+  echo 'Wilmaaaa!'
+else
+  echo 'No Fred Here'
+fi
+
+#IF-THEN-ELSE statement (second branch)
+MyVar='Barney'
+echo $MyVar
+if [ $MyVar = 'Fred' ];
+then
+  echo 'Wilmaaaa!'
+else
+  echo 'No Fred Here'
+fi
+
+# ..now I will throw you a "curve"
+MyVar=‘Fred’
+echo $MyVar
+if [ $MyVar == 'Fred' ];
+then
+  echo 'Wilmaaaa!'
+else
+  echo 'No Fred Here'
+fi
+
+#equality vs assignment (-eq is for numbers)
+MyVar='Fred'
+echo $MyVar
+if [ $MyVar -eq 'Fred' ];
+then
+  echo 'Wilmaaaa!'
+else
+  echo 'No Fred Here'
+fi
+
+#Boolean true
+MyBoolean=true
+echo $MyBoolean
+if  $MyBoolean
+then
+  echo Yes
+else
+  echo No
+fi
+#Boolean false
+MyBoolean=false
+echo $MyBoolean
+if  $MyBoolean
+then
+  echo Yes
+else
+  echo No
+fi
+
+#ternary operator
+b=4
+a=$(( b == 5 ? 123 : 321  ))
+echo $a
+b=5
+a=$(( b == 5 ? 123 : 321  ))
+echo $a
+
+#string stuff
+# https://tldp.org/LDP/abs/html/string-manipulation.html
+
+# string expansion - last week
+
+StateYourName=Fred
+echo "I, $StateYourName"
+echo 'I, $StateYourName'
+
+#search and replace
+
+#GREP reference: https://www.gnu.org/software/grep/manual/grep.html#Regular-Expressions
+#adieu (recommended first guess, but slice, tried, and crane also work)
+
+grep -Ei '[^adiu][^adiu][^adiu][^adieu][^adiu]' Wordle.txt
+
+#venom
+
+grep -Ei '[^adiuvnm][^adiuvenm][^adiuvnm][^adieuvnom][^adiuvnm]' Wordle.txt
+
+#epoch
+
+grep -Ei '[e][^adiuvenmpch][o][^adieuvnomch][^adiuvnmch]' Wordle.txt
+
+#elope - winner!
+
+#fast forward to quirks
+
+a=20
+b=5
+let c=$a/$b
+echo $c
+
+a=20
+b=3
+let c=$a/$b
+echo $c
+
+#(show in cmd window)
+
+#solution: bc
+#https://www.geeksforgeeks.org/bc-command-linux-examples/
+
+
+
+
+
