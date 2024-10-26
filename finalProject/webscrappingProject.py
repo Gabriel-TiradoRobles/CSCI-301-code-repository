@@ -4,7 +4,9 @@ import requests
 from bs4 import BeautifulSoup
 
 URL = "https://remote.co/remote-jobs/developer/"
+
 page = requests.get(URL)
+jobHits = 0
 
 # print(page.text)
 
@@ -13,6 +15,7 @@ soup = BeautifulSoup(page.content, "html.parser")
 job_results = soup.find_all('a', class_="card")
 
 for job_element in job_results:
+    jobHits = jobHits + 1
     # Job Title Filtering
     job_title = job_element.find("span", class_="font-weight-bold larger")
 
@@ -49,5 +52,6 @@ for job_element in job_results:
 
     print("\n")
     
-
+if jobHits == 0:
+    print("No Jobs Found.\nWas the link provided correct?")
 # print(soup)
